@@ -1,0 +1,8 @@
+
+### Peticion consultar temperatura
+POST http://localhost:3000/getTemperature
+Content-Type: application/json
+
+### Peticion activar rigo
+POST http://localhost:3000/activateIrrigation
+Content-Type: application/json
